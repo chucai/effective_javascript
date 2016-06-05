@@ -1,0 +1,25 @@
+{
+  "name": "effective_javascript",
+  "version": "1.0.0",
+  "description": "effective javascript 练习",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chucai/effective_javascript.git"
+  },
+  "keywords": [
+    "javascripts",
+    "effective"
+  ],
+  "author": "chucai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chucai/effective_javascript/issues"
+  },
+  "homepage": "https://github.com/chucai/effective_javascript#readme"
+}
